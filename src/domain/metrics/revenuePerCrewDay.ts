@@ -3,9 +3,8 @@ import { snapToCanonicalWeek, getAllWeekStarts } from "../../lib/dateUtils";
 import { computeWeeklyRevenue } from "./weeklyRevenue";
 
 export function computeRevenuePerCrewDay(repo: Repository) {
-  const weeklyRevenueData = computeWeeklyRevenue(repo);
   const revenueByWeek = new Map<string, number>(
-    weeklyRevenueData.map((r: { weekStart: string; revenue: number }) => [r.weekStart, r.revenue])
+    computeWeeklyRevenue(repo).map((r: any) => [r.weekStart, r.revenue])
   );
   
   const crewDayCounts = new Map<string, number>();

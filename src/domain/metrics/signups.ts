@@ -1,13 +1,12 @@
 import { Repository } from "../../data/repositories/ServiceRepository";
 import { snapToCanonicalWeek, getAllWeekStarts } from "../../lib/dateUtils";
-import { CustomerLocation } from "../../lib/types";
 
 export function computeSignups(repo: Repository) {
   const firstActivationByCustomer = new Map<string, string>();
 
   for (const ls of repo.locationServices) {
     if (!ls.Serv_DateActivated) continue;
-    const loc = repo.customerLocations.find((cl: CustomerLocation) => cl.LocationID === ls.LocationID);
+    const loc = repo.customerLocations.find((cl: any) => cl.LocationID === ls.LocationID);
     if (!loc) continue;
     const custId = loc.CustomerID;
     const existing = firstActivationByCustomer.get(custId);
