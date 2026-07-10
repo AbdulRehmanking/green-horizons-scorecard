@@ -34,7 +34,7 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 
 ## 🌐 Live Demo
 
-**[View the live dashboard →](https://your-app.vercel.app)**
+**[View the live dashboard →](https://green-horizons-scorecard.vercel.app/)**
 
 [API Endpoint →](https://your-app.vercel.app/api/metrics)
 
