@@ -1,0 +1,709 @@
+ServiceID,Service_Region,Service_Category,Service_Title,Active,Service_Type,Service_BillType,Serv_Taxable,Serv_CallCharge,Serv_Hourly,Serv_HourlyRate,Serv_TotalCalls,Serv_Freq,FirstHourChargeRate,ServiceGroupID
+1,1,Service,Aerate Call Back,1,5,1,1,0,0,0,1,0,0,13
+2,1,Service,Irrigation Fall Blowout,1,4,1,1,0,0,0,1,0,0,7
+3,1,Service,Deice And Scrape,1,3,1,0,0,0,0,2,1,0,8
+4,1,Service,zDethatch,0,2,1,1,0,0,0,1,0,0,9
+5,1,Service,zLawn Edge Special,0,3,0,1,89,0,0,3,30,0,2
+6,1,Call,ZEdina_Lscape,0,2,1,0,0,0,0,1,0,0,1
+7,1,Call,ZEstcall,0,2,1,0,0,0,0,1,0,0,1
+8,1,Service,Estimate - Standard,1,2,1,0,0,0,0,0,0,0,1
+9,1,Service,Aerate Fall,1,4,1,1,0,0,0,1,0,0,13
+10,1,Service,ZDead_FallDeth,0,2,1,1,0,0,0,1,0,0,1
+11,1,Service,Fert Fall,1,2,1,1,0,0,0,1,0,0,4
+12,1,Service,Fall Cleanup 2 Visits,1,3,1,1,0,0,0,2,14,0,2
+13,1,Call,Fall Cleanup Call Back,1,5,1,1,0,0,0,1,0,0,10
+14,1,Call,zFCU_Note,0,5,1,0,0,0,0,1,0,0,1
+15,1,Service,Fert Call Back,1,5,1,1,0,0,0,1,0,0,10
+16,1,Call,zFert_Note,0,5,1,0,0,0,0,1,0,0,1
+17,1,Service,Fert And Weed,1,4,1,1,0,0,0,4,28,0,4
+18,1,Service,Fert Organic,1,4,1,1,0,0,0,4,35,0,4
+19,1,Service,Monthly Power Edging ,1,4,1,1,0,0,0,5,30,0,2
+20,1,Service,zzzzzFixup,1,5,1,1,0,0,0,1,0,0,10
+21,1,Service,zzzzFlag,1,2,1,1,15,0,0,1,0,0,7
+22,1,Service,Fert and Weed Upon Completion,1,2,1,1,0,0,0,4,28,0,4
+23,1,Service,Monthly Gardening,1,2,1,1,0,1,69,5,30,99,11
+24,1,Service,Haul,1,2,1,1,0,1,74,1,0,198,11
+25,1,Service,zzzzzHedge,1,2,1,1,0,0,0,1,0,0,11
+26,1,Service,ZInsecticide,1,2,1,1,0,0,0,1,0,0,4
+27,1,Service,Irrigation Startup,1,4,1,1,0,0,0,1,0,0,7
+28,1,Call,Collections,1,5,1,0,0,0,0,1,0,0,1
+29,1,Call,zzzzLate_Call,1,5,1,0,0,0,0,1,0,0,1
+30,1,Call,ZLate_Letter,0,2,1,0,0,0,0,1,0,0,1
+31,1,Service,zLeft_Sign,0,5,1,1,0,0,0,1,0,0,1
+32,1,Call,zLetter,0,2,1,0,0,0,0,1,0,0,1
+33,1,Service,Lscape,1,2,1,0,0,0,0,1,0,0,3
+34,1,Service,Mow Weekly,1,4,1,1,0,0,0,20,7,0,2
+35,1,Call,Mowing Call Back,1,5,1,1,0,0,0,1,7,0,10
+36,1,Service,zMow_Fixup,0,2,1,1,0,0,0,1,0,0,1
+37,1,Call,zzzzzMow_Note,0,5,1,0,0,0,0,2,7,0,10
+38,1,Service,ZZZMulch,0,2,1,0,0,0,0,1,0,0,11
+39,1,Call,ZNo_Letter,0,5,1,0,0,0,0,1,0,0,1
+40,1,Call,zNote,0,5,1,0,0,0,0,1,0,0,1
+41,1,Call,ZOther,0,5,1,0,0,0,0,1,0,0,1
+42,1,Service,zRemove_Sign,0,2,1,1,0,0,0,1,0,0,1
+43,1,Call,Renewal_Call,1,5,1,0,0,0,0,1,0,0,1
+44,1,Service,zzzzRenovate I,1,2,1,1,0,0,0,1,0,0,9
+45,1,Service,zRoll_Lawn,0,2,1,1,0,0,0,1,0,0,5
+46,1,Service,Roof_Rake,1,2,1,0,0,1,79,1,0,149,8
+47,1,Service,Spring Cleanup,1,4,1,1,0,0,0,1,0,0,2
+48,1,Call,Spring Cleanup Call Back,1,5,1,1,0,0,0,1,0,0,2
+49,1,Call,zSCU_Note,0,5,1,0,0,0,0,1,0,0,1
+50,1,Call,zzzSnow Note,0,5,1,0,0,0,0,2,0,0,10
+51,1,Service,Snow Fixup,1,5,1,0,0,0,0,1,0,0,8
+52,1,Service,ZSnow_Monthly,1,1,1,0,0,0,0,100,0,0,8
+53,1,Service,ZSoil_Test,0,2,1,1,0,0,0,1,0,0,1
+54,1,Service,zSpecial_Estimate,0,2,1,1,0,0,0,1,0,0,1
+55,1,Service,Aerate Spring,1,4,1,1,0,0,0,1,0,0,13
+56,1,Service,Sprinkler Install,1,1,1,0,0,0,0,2,0,0,7
+57,1,Call,ZSue,0,5,1,0,0,0,0,1,0,0,1
+58,1,Service,Organic Compost Top Dressing,0,4,0,1,0,0,0,1,0,0,9
+59,1,Call,ZCustomer Service,0,5,1,0,0,0,0,1,0,0,1
+60,1,Service,zStorm Clean-up,0,2,1,1,0,1,39.2,1,0,39.2,2
+61,1,Call,zRefund,0,5,1,0,0,0,0,1,0,0,1
+62,1,Call,zzzCall,1,5,1,0,0,0,0,1,0,0,1
+63,1,Service,ZAerate_Spring_And_Fall,1,2,1,1,0,0,0,2,100,0,9
+64,2,Service,Aerate Call Back,1,5,1,1,0,0,0,1,0,0,13
+65,2,Service,ZBlow_out_Irrigation,0,2,1,1,0,0,0,1,0,0,1
+66,2,Service,Deice,1,2,1,1,0,0,0,1,0,0,8
+67,2,Service,ZDethatch,0,2,1,1,0,0,0,1,0,0,1
+68,2,Service,Power Edging 1X,0,2,1,1,0,0,0,1,0,0,2
+69,2,Call,ZEdina_Lscape,0,2,1,0,0,0,0,1,0,0,1
+70,2,Call,ZEstCall,0,2,1,0,0,0,0,1,0,0,1
+71,2,Service,Estimate - Standard,1,2,1,0,0,0,0,0,0,0,1
+72,2,Service,ZDead_FallAer,0,2,1,1,0,0,0,1,0,0,1
+73,2,Service,ZFall Dethatch,0,2,1,1,0,0,0,1,0,0,1
+74,2,Service,zFallFert,0,2,1,1,0,0,0,1,0,0,1
+75,2,Service,Fall Cleanup 2 Visits,1,3,1,1,0,0,0,2,14,0,2
+76,2,Call,Fall Cleanup Call Back,1,5,1,1,0,0,0,1,0,0,1
+77,2,Call,zFCU_Note,0,5,1,0,0,0,0,1,0,0,1
+78,2,Service,zFert_Call_Back,1,5,1,1,0,0,0,1,0,0,2
+79,2,Call,zFert_Note,0,5,1,0,0,0,0,1,0,0,1
+80,2,Service,zFertA,0,2,1,1,0,0,0,6,30,0,1
+81,2,Service,zFertB,0,2,1,1,0,0,0,4,40,0,1
+82,2,Service,ZFERTC,0,2,1,1,0,0,0,2,120,0,1
+83,2,Service,zzzzFixup,1,5,1,1,0,0,0,1,0,0,10
+84,2,Service,zFlag,0,2,1,1,0,0,0,1,0,0,1
+85,2,Service,zFungicide,1,2,1,1,0,0,0,1,0,0,1
+86,2,Service,Monthly Gardening,1,2,1,1,0,1,69,5,28,99,11
+87,2,Service,Haul,1,2,1,1,0,1,74,1,0,198,11
+88,2,Service,zzzzHedge,1,2,1,1,0,0,0,1,0,0,11
+89,2,Service,zInsecticide,0,2,1,1,0,0,0,1,0,0,1
+90,2,Service,ZIrrigation_Start_up,0,2,1,1,0,0,0,1,0,0,1
+91,2,Call,Collections,1,5,1,0,0,0,0,1,0,0,1
+92,2,Call,zzzzLate_Call,1,5,1,0,0,0,0,1,0,0,1
+93,2,Call,ZLate_Letter,0,2,1,0,0,0,0,1,0,0,1
+94,2,Service,zLeft_Sign,0,5,1,1,0,0,0,1,0,0,1
+95,2,Call,zLetter,0,2,1,0,0,0,0,1,0,0,1
+96,2,Service,zLscape,0,3,1,1,0,0,0,1,0,0,1
+97,2,Service,Mow Weekly,1,4,1,1,0,0,0,20,7,0,2
+98,2,Call,Mowing Call Back,1,5,1,1,0,0,0,1,7,0,10
+99,2,Service,zMow_Fixup,0,2,1,1,0,0,0,1,0,0,1
+100,2,Call,zzzzMow_Note,0,5,1,0,0,0,0,2,0,0,10
+101,2,Service,ZZZMulch,0,2,1,1,0,0,0,1,0,0,11
+102,2,Call,ZNo_Letter,0,5,1,0,0,0,0,1,0,0,1
+103,2,Call,zNote,0,5,1,0,0,0,0,1,0,0,1
+104,2,Call,ZOther,0,5,1,0,0,0,0,1,0,0,1
+105,2,Service,zRemove_Sign,0,2,1,1,0,0,0,1,0,0,1
+106,2,Call,Renewal_Call,1,5,1,0,0,0,0,1,0,0,1
+107,2,Service,zzzzRenovate I,1,2,1,1,0,0,0,1,0,0,9
+108,2,Service,zRoll_Lawn,0,2,1,1,0,0,0,1,0,0,1
+109,2,Service,zzzzzzRoof_Rake,1,2,1,1,0,1,74.5,1,0,149,8
+110,2,Service,Spring Cleanup,1,4,1,1,0,0,0,1,0,0,2
+111,2,Call,Scu Call Back,1,5,1,1,0,0,0,1,0,0,10
+112,2,Call,zSCU_Note,0,5,1,0,0,0,0,1,0,0,1
+113,2,Call,zzzSnow Note,0,5,1,0,0,0,0,1,0,0,1
+114,2,Service,Snow Fixup,1,5,1,1,0,0,0,1,0,0,10
+115,2,Service,ZSnow_Monthly_,1,1,1,1,0,0,0,100,0,0,8
+116,2,Service,zSoil_Test,0,2,1,1,0,0,0,1,0,0,1
+117,2,Service,zSpecial_Estimate,0,2,1,1,0,0,0,1,0,0,1
+118,2,Service,ZDead_SprAer,0,2,1,1,0,0,0,1,0,0,1
+119,2,Service,zSprinkler_Install,0,2,1,1,0,0,0,1,0,0,1
+120,2,Call,ZSue,0,5,1,0,0,0,0,1,0,0,1
+121,2,Call,ZTop_Notch,0,2,1,0,0,0,0,1,0,0,1
+122,2,Call,ZCustomer Service,0,2,1,0,0,0,0,1,0,0,1
+123,2,Service,zWeed,0,2,1,1,0,0,0,1,0,0,1
+124,2,Call,ZAerate_Note,0,5,1,0,0,0,0,1,0,0,1
+125,2,Call,zzzzCall,1,5,1,0,0,0,0,1,0,0,1
+126,2,Service,Aerate Spring,1,4,1,1,0,0,0,1,0,0,13
+131,1,Service,zRe_Estimate,0,2,1,0,0,0,0,1,0,0,1
+132,2,Service,zRe_Estimate,0,2,1,0,0,0,0,1,0,0,1
+133,2,Service,Lime,1,2,1,1,0,0,0,1,0,0,4
+134,2,Service,ZSnow_Per_Time_Deluxe_,1,2,1,1,0,0,0,100,0,0,8
+135,2,Service,ZSpring_irrigation,0,2,1,1,0,0,0,1,0,0,1
+136,2,Service,ZFall_Irrigation,0,2,1,1,0,0,0,1,0,0,1
+137,1,Service,ZSnow_Per_Time,1,2,1,0,0,0,0,100,0,0,8
+138,1,Call,zzzzCleaning Patrol,0,5,0,1,0,1,0,1,0,0,1
+139,1,Service,ZFall_Irrigation,0,2,1,1,0,0,0,1,0,0,1
+140,1,Service,Power Edging 1x,1,4,1,1,0,0,0,1,0,0,2
+141,1,Service,ZSnow_Monthly_Deluxe,1,1,1,0,0,0,0,100,0,0,8
+142,1,Service,ZSnow_Per_Time_Deluxe,1,2,1,0,0,0,0,100,0,0,8
+143,2,Service,Aerate Fall,1,4,1,1,0,0,0,1,0,0,13
+144,2,Service,ZAerate_Spring_And_Fall,1,2,1,1,0,0,0,2,120,0,1
+145,2,Service,ZSnow_Monthly_Deluxe_,1,1,1,1,0,0,0,100,0,0,8
+146,2,Service,Zsno time bad,0,2,1,1,0,0,0,1,0,0,1
+217,3,Service,ZAerate_Call_Back,0,5,1,1,0,0,0,1,0,0,1
+218,3,Service,ZAerate_Fall,0,2,1,0,0,0,0,1,0,0,1
+219,3,Call,ZAerate_Note,0,5,1,0,0,0,0,1,0,0,1
+220,3,Service,ZAerate_Spring,0,2,1,0,0,0,0,1,0,0,1
+221,3,Service,ZAerate_Spring_And_Fall,0,2,1,1,0,0,0,2,100,0,1
+222,3,Service,ZBlow_Out_Irrigation,0,2,1,0,0,0,0,1,0,0,1
+223,3,Call,zzzzCall,0,5,1,0,0,0,0,1,0,0,1
+224,3,Service,zzSidewalk Deice,0,2,1,1,0,0,0,1,0,0,8
+225,3,Service,ZDead_FallDeth,0,2,1,1,0,0,0,1,0,0,1
+226,3,Service,ZDethatch,0,2,1,0,0,0,0,1,0,0,1
+227,3,Service,zzEdge 1X,0,2,1,1,0,1,59,1,0,59,2
+228,3,Service,ZEdge Special,0,2,1,1,75,0,0,3,30,0,1
+229,3,Call,ZEdina_Lscape,0,2,1,0,0,0,0,1,0,0,1
+230,3,Call,ZEstCall,0,2,1,0,0,0,0,1,0,0,1
+231,3,Service,ZEstimate - Standard,0,2,1,0,0,0,0,0,0,0,1
+232,3,Service,ZFall_Irrigation,0,2,1,1,0,0,0,1,0,0,1
+233,3,Service,ZFCU,0,3,1,0,0,0,0,2,14,0,1
+234,3,Call,zzFCU_Call_Back,0,5,1,1,0,0,0,1,0,0,10
+235,3,Call,ZFCU_Note,0,5,1,0,0,0,0,1,0,0,1
+236,3,Service,ZFert_Call_Back,0,5,1,1,0,0,0,1,0,0,1
+237,3,Call,ZFert_Note,0,5,1,0,0,0,0,1,0,0,1
+238,3,Service,ZFERTA,0,2,1,0,0,0,0,5,42,0,1
+239,3,Service,ZFertB,0,2,1,0,0,0,0,4,42,0,1
+240,3,Service,ZFERTC,0,2,1,1,0,0,0,2,120,0,1
+241,3,Service,ZFERTFALL,0,2,1,1,0,0,0,1,0,0,1
+242,3,Service,ZFixup,0,2,1,1,0,0,0,1,0,0,1
+243,3,Service,ZFlag,0,2,1,1,0,0,0,1,0,0,1
+244,3,Service,ZFungicide,0,2,1,1,0,0,0,1,0,0,1
+245,3,Service,ZGrub,0,2,1,1,0,0,0,1,0,0,1
+246,3,Service,zzHaul,0,2,1,1,0,1,64,1,0,149,3
+247,3,Service,ZHedge,0,2,1,1,0,1,45,1,0,75,1
+248,3,Service,ZInsecticide,0,2,1,1,0,0,0,1,0,0,1
+249,3,Service,ZIrrigation_Start_Up,0,2,1,0,0,0,0,1,0,0,1
+250,3,Call,ZCollections,0,5,1,0,0,0,0,1,0,0,1
+251,3,Call,zzLate_Call,0,5,1,0,0,0,0,1,0,0,1
+252,3,Call,ZLate_Letter,0,2,1,0,0,0,0,1,0,0,1
+253,3,Service,ZLeft_Sign,0,5,1,1,0,0,0,1,0,0,1
+254,3,Call,ZLetter,0,2,1,0,0,0,0,1,0,0,1
+255,3,Service,ZLSCAPE,0,3,1,1,0,0,0,1,0,0,1
+256,3,Service,ZMow,0,2,1,0,0,0,0,28,7,0,1
+257,3,Call,zzMow_Call_Back,0,5,1,1,0,0,0,1,0,0,10
+258,3,Service,ZMow_Fixup,0,2,1,1,0,0,0,1,0,0,1
+259,3,Call,zzMow_Note,0,5,1,0,0,0,0,2,0,0,10
+260,3,Service,ZMulch,0,2,1,1,0,0,0,1,0,0,1
+261,3,Call,ZNo_Letter,0,5,1,0,0,0,0,1,0,0,1
+262,3,Call,ZNote,0,5,1,0,0,0,0,1,0,0,1
+263,3,Call,ZOther,0,5,1,0,0,0,0,1,0,0,1
+264,3,Service,ZRe_Estimate,0,2,1,0,0,0,0,1,0,0,1
+265,3,Service,ZRemove_Sign,0,2,1,1,0,0,0,1,0,0,1
+266,3,Call,zzRenewal_Call,0,5,1,0,0,0,0,1,0,0,1
+267,3,Service,ZRenovate,0,2,1,0,0,0,0,1,0,0,1
+268,3,Service,ZRoll_Lawn,0,2,1,1,0,0,0,1,0,0,1
+269,3,Service,ZRoof_Rake,0,2,1,1,0,0,0,1,0,0,1
+270,3,Service,ZSCU,0,2,1,0,0,0,0,1,0,0,1
+271,3,Call,zzSCU Call Back,0,5,1,1,0,0,0,1,0,0,10
+272,3,Call,ZSCU_Note,0,5,1,0,0,0,0,1,0,0,1
+273,3,Call,ZSNO_NOTE,0,5,1,0,0,0,0,1,0,0,1
+274,3,Service,ZSnoFixup,0,5,1,1,0,0,0,1,0,0,1
+275,3,Service,ZSnow_Monthly,0,1,1,0,0,0,0,100,0,0,1
+276,3,Service,ZSnow_Monthly_Deluxe,0,2,1,0,0,0,0,100,0,0,1
+277,3,Service,ZSnow_Per_Time,0,2,1,1,0,0,0,100,0,0,1
+278,3,Service,ZSnow_Per_Time_Deluxe,0,2,1,1,0,0,0,100,0,0,1
+279,3,Service,ZSoil_Test,0,2,1,1,0,0,0,1,0,0,1
+280,3,Service,ZSpecial_Estimate,0,2,1,1,0,0,0,1,0,0,1
+281,3,Service,ZSpring_Irrigation,0,2,1,1,0,0,0,1,0,0,1
+282,3,Service,ZSprinkler_Install,0,2,1,1,0,0,0,1,0,0,1
+283,3,Call,ZSue,0,5,1,0,0,0,0,1,0,0,1
+284,3,Call,ZTop_Notch,0,2,1,0,0,0,0,1,0,0,1
+285,3,Call,ZTraining,0,2,1,0,0,0,0,1,0,0,1
+286,3,Service,ZWeed,0,2,1,1,0,0,0,1,0,0,1
+287,2,Service,Plowing Flex Plan,1,2,1,1,0,0,0,50,0,0,8
+288,1,Service,zzzzSweep,0,2,1,1,0,0,0,1,0,0,2
+289,3,Service,ZLime,0,2,1,1,0,0,0,1,0,0,1
+290,1,Service,zIrrigation Call Back,0,5,1,0,0,0,0,1,0,0,10
+293,2,Service,ZUnknown,0,2,1,0,0,0,0,1,0,0,1
+294,3,Service,ZUnknown,0,2,1,0,0,0,0,1,0,0,1
+300,1,Service,Estimate Install,1,2,1,0,0,0,0,0,0,0,1
+301,2,Service,zEstimate - Install,0,2,1,0,0,0,0,0,0,0,1
+302,3,Service,ZEstimate - Install,0,2,1,0,0,0,0,0,0,0,1
+303,1,Service,Estimate Viper,1,2,1,0,0,0,0,1,0,0,1
+304,2,Service,Estimate - Viper,0,2,1,0,0,0,0,0,0,0,1
+305,3,Service,ZEstimate - Viper,0,2,1,0,0,0,0,0,0,0,1
+306,1,Service,Gutter Early Spring,0,4,1,1,0,0,0,1,0,0,6
+307,2,Service,Gutter Early Spring ,0,4,1,1,0,0,0,1,0,0,6
+308,3,Service,ZGUTTER_1 VISIT,0,2,1,0,69,0,0,1,0,0,1
+309,1,Service,Gutter Fall 2 Visits,1,3,1,1,0,0,0,2,21,0,6
+310,1,Service,Zdeleted snow seasonal,0,3,1,0,0,0,0,15,0,0,1
+311,2,Service,Zdelete Snow_Seasonal,0,3,1,1,0,0,0,15,0,0,1
+312,3,Service,ZSnow_Seasonal,0,3,1,0,0,0,0,12,0,0,1
+313,3,Service,ZSnow_Seasonal_Deluxe,0,3,1,0,0,0,0,18,0,0,1
+314,1,Call,Service Note,1,5,1,0,0,0,0,1,1,0,10
+315,2,Call,Service Note,1,5,1,0,0,0,0,1,1,0,10
+316,3,Call,ZService Note,0,5,1,0,0,0,0,1,1,0,1
+317,1,Service,zStorm Gutter Cleaning Special,0,2,0,1,0,0,0,1,1,0,6
+318,2,Service,ZUnderground Invisible Fence,0,2,0,0,0,0,0,0,0,0,1
+319,3,Service,ZUnderground Invisible Fence,0,2,0,0,0,0,0,0,0,0,1
+320,1,Service,Irrigation Repair,1,2,1,1,0,1,119,1,1,149,7
+321,2,Service,ZIrrigation Repair,0,2,0,0,0,1,60,1,1,60,1
+322,3,Service,ZIrrigation Repair,0,2,0,0,0,1,55,1,1,55,1
+323,1,Service,12 Month Subscription,1,1,1,1,0,0,0,12,30,0,3
+324,2,Service,zz12 Month Subscription,1,1,0,1,0,0,0,0,30,0,1
+325,3,Service,Z12 Month Subscription,0,1,0,1,0,0,0,100,30,0,1
+326,2,Service,zzzzLawn Edge Special,0,3,1,0,89,0,0,3,3,0,5
+327,1,Service,Mow Special,1,4,1,1,0,0,0,20,7,0,2
+328,2,Service,Mow Special,1,2,1,1,0,0,0,22,7,0,2
+329,3,Service,ZMow Special,0,2,1,0,0,0,0,25,7,0,1
+330,1,Service,zzzzMow Special Call Back,0,5,0,0,0,0,0,2,7,0,10
+331,2,Service,zzzzMow Special Call Back,0,5,0,0,0,0,0,1,7,0,10
+332,3,Service,Zmow special call back,0,0,0,0,0,0,0,2,7,0,1
+333,1,Call,zzzzzMow Special Note,0,5,0,0,0,0,0,2,7,0,10
+334,2,Call,zzzzMow Special Note,0,5,0,0,0,0,0,2,7,0,10
+335,3,Call,zzzzzMow Special Note,1,5,0,0,0,0,0,2,7,0,10
+336,1,Service,zzzzzGardening,1,2,0,1,0,0,0,1,0,0,11
+337,2,Service,zzzzzGardening,1,2,0,1,0,0,0,1,0,0,11
+338,3,Service,zFree Gardening,1,2,0,0,0,1,0,1,0,0,1
+339,1,Service,Shrub Trimming Call Back,1,5,0,0,0,0,0,1,0,0,10
+340,2,Service,Hedge Call Back,1,5,0,0,0,0,0,1,0,0,10
+341,3,Service,ZHedge Call Back,0,5,0,0,0,0,0,1,0,0,1
+342,1,Service,zzzRenovate Call Back,0,5,0,0,0,0,0,1,0,0,10
+343,2,Service,zzzRenovate Call Back,0,5,0,0,0,0,0,1,0,0,10
+344,3,Service,ZRenovate Call Back,0,5,0,0,0,0,0,1,0,0,1
+345,1,Call,Dethatch Call Back,1,5,1,0,0,0,0,1,0,0,13
+346,2,Call,Dethatch Call Back,1,5,0,0,0,0,0,1,0,0,13
+347,3,Service,ZDethatch Call Back,0,5,0,0,0,0,0,1,0,0,1
+348,1,Service,Mulch Call Back,1,5,1,0,0,0,0,1,0,0,10
+349,2,Service,Mulch Call Back,1,5,1,0,0,0,0,1,0,0,10
+350,3,Service,ZMulch Call Back,0,5,1,0,0,0,0,1,0,0,1
+351,1,Call,Edge Call Back,1,5,1,0,0,0,0,1,0,0,10
+352,2,Call,Edge Call Back,1,5,0,0,0,0,0,1,0,0,10
+353,3,Service,ZEdge Call Back,0,5,0,0,0,0,0,1,0,0,1
+354,3,Service,zzGutter 2 Special,0,3,1,0,0,0,0,2,20,0,6
+355,2,Service,Gutter Fall 2 Visits,1,3,0,1,0,0,0,2,20,0,6
+356,1,Service,zzzzzLscape Call Back,0,4,1,0,0,0,0,1,0,0,10
+357,1,Service,zz911 - help chris find iphone - check your email ,1,2,0,1,0,1,59,1,0,59,2
+358,2,Service,zzzzzFall Mow,1,2,0,1,0,1,59,1,0,59,1
+359,3,Service,ZFall Mow,0,2,0,1,0,1,45,1,0,0,1
+360,1,Service,Gutter Call Back,1,5,1,0,0,0,0,1,0,0,10
+361,2,Service,Gutter Call Back,1,5,1,0,0,0,0,1,0,0,10
+362,3,Service,ZGutter Call Back,0,5,1,0,0,0,0,1,0,0,1
+363,1,Service,Pile,1,4,0,0,0,0,0,1,0,0,2
+364,2,Service,zPile,0,4,0,0,0,0,0,1,0,0,1
+365,3,Service,ZPile,0,4,0,0,0,0,0,1,0,0,1
+366,1,Call,ZEmployee Damages,0,0,0,0,0,0,0,1,0,0,1
+367,2,Call,ZEmployee Damages,0,0,0,0,0,0,0,1,0,0,1
+368,3,Call,ZEmployee Damages,0,0,0,0,0,0,0,1,0,0,1
+369,1,Service,zzzzSnowTemp,0,2,0,0,0,0,0,1,1,0,8
+370,2,Service,zzzzSnowTemp_,0,2,0,0,0,0,0,1,1,0,1
+371,3,Service,ZSnowTemp,0,2,0,0,0,0,0,1,1,0,1
+372,1,Service,zzzzMinneapolis Plow,1,4,0,0,0,0,0,100,0,0,1
+373,1,Service,ZPrepay,0,5,0,0,0,0,0,100,0,0,1
+374,2,Service,ZPrepay,0,5,0,0,0,0,0,100,0,0,1
+375,3,Service,ZPrepay,0,5,0,0,0,0,0,100,0,0,1
+376,1,Service,ZMole,1,2,1,0,0,0,0,1,0,0,4
+377,1,Service,zzzzSoil Test,0,2,1,1,40,0,0,1,0,0,1
+378,1,Service,zzzzzLighting,0,2,1,1,0,0,0,1,0,0,7
+379,1,Service,Gardening Call Back,1,5,1,0,0,0,0,1,0,0,10
+380,2,Service,Gardening Call Back,1,5,0,0,0,0,0,1,0,0,1
+381,1,Service,Irrigation Check-up,1,4,1,1,0,0,0,1,0,0,7
+382,2,Service,zMole,0,2,1,0,0,0,0,1,0,0,1
+383,1,Service,Driveway Staking,1,5,0,0,0,0,0,2,0,0,8
+384,2,Service,zStake,0,5,0,0,0,0,0,1,0,0,1
+385,3,Service,ZStake,0,5,0,0,0,0,0,1,0,0,1
+386,1,Service,Mulch Western Red Install,1,2,1,1,0,0,0,1,0,0,11
+387,1,Service,Mulch Western Red Delivery,1,2,0,1,0,0,0,1,0,0,11
+388,2,Service,Mulch Color Enhanced Delivery,1,2,0,1,0,0,0,1,0,0,11
+389,3,Service,Z2005 Fcu,0,2,0,1,0,0,0,0,0,0,1
+390,1,Call,Late Letter,1,5,0,0,0,0,0,0,0,0,1
+391,2,Call,Late Letter,1,5,0,0,0,0,0,0,0,0,1
+392,3,Service,Late Letter,1,5,0,0,0,0,0,0,0,0,1
+393,2,Service,Dethatch Spring,1,4,0,1,0,0,0,1,0,0,13
+394,2,Service,Dethatch Fall,1,4,0,1,0,0,0,1,0,0,13
+395,1,Service,Dethatch Spring,1,4,0,1,0,0,0,1,0,0,13
+396,1,Service,Dethatch Fall,1,4,0,1,0,0,0,1,1,0,13
+397,1,Call,Ach Prepay,1,5,1,1,0,1,0,1,0,0,1
+398,2,Call,Ach Prepay,1,5,1,0,0,0,0,1,0,0,1
+399,3,Call,zzOnline Prepay Request,0,5,1,0,0,0,0,1,0,0,1
+400,1,Service,z06-07 Seasonal,0,1,0,0,0,0,0,100,0,0,8
+401,2,Service,Mulch CE install,1,2,0,1,0,0,0,1,0,0,11
+402,3,Service,Z2006-2007 Snow Monthly,0,0,0,0,0,0,0,100,0,0,1
+403,1,Service,z06-07 Dlx Seasonal,0,1,0,0,0,0,0,100,0,0,8
+404,2,Service,Mulch Premium Delivery Only,1,2,0,1,0,0,0,1,0,0,11
+405,3,Service,Z2006-2007 Snow Monthly Deluxe,0,0,0,0,0,0,0,100,0,0,1
+406,1,Service,z06-07 Per Time,0,2,0,0,0,0,0,1,0,0,8
+407,2,Service,Mulch Premium Install,1,2,0,1,0,0,0,1,0,0,11
+408,3,Service,Z2006-2007 Snow Per Time,0,2,0,0,0,0,0,100,0,0,1
+409,2,Service,zFertA DLX,0,2,1,0,0,0,0,5,43,0,1
+410,1,Call,zzzzCancel Services,1,5,0,0,0,0,0,1,0,0,1
+411,2,Call,zzzzzCancel Services,1,5,0,0,0,0,0,1,0,0,1
+412,3,Call,zCancel Services,1,5,0,0,0,0,0,1,0,0,1
+413,1,Service,z2006-2007 Snow per time deluxe,1,2,0,0,0,0,0,0,0,0,1
+414,2,Service,ZSnow per time deluxe,1,0,0,0,0,0,0,0,0,0,8
+415,3,Service,ZSnow per time deluxe,1,0,0,0,0,0,0,0,0,0,1
+416,1,Service,z06-07 Per Time Dlx,0,2,0,0,0,0,0,100,0,0,8
+417,2,Service,Fall Cleanup Upon Completion,1,2,0,1,0,0,0,2,14,0,2
+418,3,Service,Z2006-2007 Snow per time deluxe,1,2,0,0,0,0,0,0,0,0,1
+419,1,Service,zIrrigation Flag,0,2,1,0,15,0,0,1,0,0,7
+420,1,Service,zInvisible Fence Marking,0,2,1,0,45,0,0,1,0,0,7
+421,1,Call,Compliment,1,5,0,0,0,0,0,1,1,0,10
+422,2,Call,zzzzzzCompliment,1,0,0,0,0,0,0,1,1,0,10
+423,3,Call,zzzzzCompliment,1,0,0,0,0,0,0,1,1,0,10
+424,1,Service,Lawn Treatment,1,2,0,1,0,0,0,1,7,0,4
+425,2,Service,zLawn Treatment,0,2,0,1,0,0,0,1,0,0,1
+426,3,Service,zzLawn Treatment,0,2,0,1,0,0,0,1,0,0,1
+427,1,Service,Lawn Treatment II,0,2,0,1,0,0,0,1,0,0,4
+428,2,Service,zLawn Treatment II,0,2,0,1,0,0,0,1,0,0,1
+429,3,Service,zLawn Treatment II,0,0,0,0,0,0,0,1,0,0,1
+430,1,Service,ZZZZZRenovate II,1,2,0,0,0,0,0,1,0,0,9
+431,2,Service,ZZZZZRenovate II,1,2,0,0,0,0,0,1,0,0,9
+432,3,Service,zRenovate II,0,2,0,0,0,0,0,0,0,0,1
+433,1,Service,Top Soil,1,2,0,0,100,0,0,1,1,0,11
+434,1,Service,zzzzzMulch II,1,2,1,0,0,0,0,1,0,0,11
+435,2,Service,zzzzzzMulch II,1,2,0,0,0,0,0,1,0,0,11
+436,3,Service,zMulch II,0,0,0,0,0,0,0,1,0,0,1
+437,1,Service,Seasonal Shrub Trim Hourly,1,2,0,1,0,1,74,3,39,149,11
+438,2,Service,Shrub Trim Hourly,1,2,0,1,0,1,79,1,1,198,11
+439,3,Service,zShrub Trim Hourly,0,2,0,0,0,1,49,1,0,75,1
+440,1,Service,Gardening Hourly,1,2,0,1,0,1,69,1,0,99,11
+441,2,Service,Gardening Hourly,1,2,1,1,0,1,69,1,0,129,11
+442,3,Service,zzGardening Hourly,0,2,0,0,0,1,59,1,0,59,11
+443,1,Service,Landscape II,1,2,1,0,2000,0,0,1,1,0,4
+444,1,Service,Sidewalk Deice,1,2,1,0,0,0,0,1,1,0,8
+445,1,Service,z07-08 Dlx Seasonal,0,1,0,0,0,0,0,100,0,0,8
+446,1,Service,z07-08 Seasonal,0,1,0,0,0,0,0,100,0,0,8
+447,1,Service,z07-08 Per Time,0,2,0,0,0,0,0,100,0,0,8
+448,1,Service,z07-08 Per Time Dlx,0,2,0,0,0,0,0,100,0,0,8
+449,1,Service,zApril Per Time Snow,0,2,0,0,0,0,0,1,0,0,8
+450,2,Service,z2007-08 Snow Mnth,0,1,0,0,0,0,0,100,0,0,8
+451,2,Service,z2007-08 Sno Mnth Dlx,0,1,0,1,0,0,0,100,0,0,8
+452,2,Service,z2007-08 PerX,0,2,0,1,0,0,0,100,0,0,8
+453,2,Service,z2007-08 PerX Dlx,0,2,0,1,0,0,0,100,0,0,8
+454,1,Service,zzz5 Percent Prepay Discount,1,5,0,1,0,0,0,1,0,0,1
+455,2,Service,zzzz5 Percent Prepay Discount,0,5,0,1,0,0,0,1,0,0,1
+456,1,Service,Reno Fixup,1,5,0,0,0,0,0,1,0,0,10
+457,1,Service,z2006-2007 Per Time,0,2,0,0,0,0,0,1,0,0,8
+458,2,Service,Mow Every 2 Weeks Upon Completion ,1,2,0,1,0,0,0,11,14,0,2
+459,1,Call,zPayment,1,5,1,0,0,0,0,0,0,0,1
+460,1,Service,zIrrigation Note,0,0,0,0,0,0,0,0,0,0,1
+461,2,Service,zIrrigation Note,0,0,0,0,0,0,0,0,0,0,1
+462,1,Service,zzzzzFert Note,1,5,0,0,0,0,0,1,0,0,10
+463,2,Service,zFert Note,0,5,0,0,0,0,0,1,0,0,1
+464,1,Service,Fall Cleanup Hourly,1,2,1,1,0,1,89,2,14,178,2
+465,2,Service,Fall Cleanup Hourly,1,2,1,1,0,1,89,1,0,178,2
+466,2,Service,z2007 Fcu,0,2,0,0,0,0,0,1,0,0,4
+467,2,Service,z2007 Gutters,0,2,0,0,0,0,0,1,0,0,1
+468,1,Service,zzzzFertA DLX,0,2,0,1,0,0,0,4,30,0,4
+469,1,Service,z08-09 Seasonal,0,1,0,0,0,0,0,100,0,0,8
+470,1,Service,z08-09 Dlx Seasonal,0,1,0,0,0,0,0,100,0,0,8
+471,1,Service,z08-09 Per Time,0,2,0,0,0,0,0,100,0,0,8
+472,1,Service,z08-09 Per Time Dlx,0,2,0,0,0,0,0,100,0,0,8
+473,2,Service,z2008-09 PerX,0,2,0,0,0,0,0,100,100,0,8
+474,2,Service,z2008-09 PerX Dlx,1,2,0,0,0,0,0,100,100,0,8
+475,2,Service,z2008-09 Sno Mnth Dlx,0,1,0,0,0,0,0,100,100,0,8
+476,2,Service,z2008-09 Snow Mnth,0,1,0,0,0,0,0,100,100,0,8
+477,1,Service,Mulch Double Ground Install,1,2,0,1,0,0,0,1,0,0,11
+478,2,Service,z2008 Mow Discount,0,2,0,0,0,0,0,1,0,0,1
+479,1,Service,zPre Est. Mow,0,2,0,0,0,0,0,1,0,0,4
+480,2,Service,zPre Est. Mow,0,2,0,0,0,0,0,1,0,0,4
+481,1,Service,Mulch Double Ground Delivery,1,2,0,1,0,0,0,1,0,0,11
+482,2,Service,z2008 Mow Discount,0,0,0,0,50,0,0,0,0,0,1
+483,1,Service,ZDamage,0,5,0,0,0,0,0,1,0,0,10
+484,2,Service,ZDamage,0,5,0,0,0,0,0,1,0,0,10
+485,1,Service,zStorm cleanup,1,2,1,0,0,1,49,1,1,49,4
+486,1,Service,zzzzcommercial monthly,0,1,0,0,0,0,0,100,0,0,8
+487,1,Service,z08-09 commercial deluxe snow per time,0,2,0,0,0,0,0,100,0,0,8
+488,1,Service,z08-09 commercial snow monthly,0,1,0,0,0,0,0,100,0,0,8
+489,1,Service,z08-09 commercial snow per time,0,2,0,0,0,0,0,100,0,0,8
+490,1,Service,z09-10 Seasonal ,0,1,0,0,0,0,0,100,0,0,8
+491,2,Service,z2009-10 Standard Seasonal ,0,1,0,0,0,0,0,100,0,0,8
+492,1,Service,z09-10 Deluxe Per Time,1,2,0,0,0,0,0,100,0,0,8
+493,2,Service,z2009-10 Deluxe Per Time ,1,2,0,0,0,0,0,100,0,0,8
+494,1,Service,z09-10 Per Time,1,2,0,0,0,0,0,100,0,0,8
+495,1,Service,z09-10 Deluxe Seasonal,0,1,0,0,0,0,0,100,0,0,8
+496,2,Service,z2009-10 Standard Per Time ,0,2,0,0,0,0,0,100,0,0,8
+497,2,Service,z2009-10 Deluxe Seasonal,0,1,0,0,0,0,0,100,0,0,8
+498,1,Service,zIrrigation Deluxe,0,2,0,0,64,0,0,5,35,0,7
+499,1,Service,zIrrigation Spring And Fall,0,3,0,0,0,0,0,2,130,0,7
+500,1,Service,Seed Minor Fall,0,4,1,1,0,0,0,1,30,0,9
+501,1,Service,Mulch Color Enhanced Install,1,2,0,1,0,0,0,1,0,0,11
+502,2,Service,z2009 Mow Discount,0,5,0,0,0,0,0,1,0,0,1
+503,1,Service,Seed Major Fall,0,4,1,1,0,0,0,1,0,0,9
+504,2,Service,zFlat Rate Billing,1,2,1,0,0,0,0,1,0,0,1
+505,1,Service,zFlat Rate Billing Plan,1,5,0,0,0,0,0,1,0,0,1
+506,2,Service,zFlat Rate Billing Plan,1,5,0,0,0,0,0,1,0,0,1
+507,1,Service,zzzzzzMulch Delivery,1,2,0,0,0,0,0,1,0,0,11
+508,2,Service,zMulch Delivery,0,2,0,0,49,0,0,1,0,0,1
+509,1,Service,zzzzzDeluxe Snow Per Time,0,2,1,0,0,0,0,100,0,0,8
+510,1,Service,zzzzzDeluxe Seasonal,0,1,0,0,0,0,0,100,0,0,8
+511,1,Service,zzzzPer Time Snow,1,2,0,0,0,0,0,50,0,0,8
+512,1,Service,z10-11 Seasonal,1,1,0,0,0,0,0,100,0,0,8
+513,2,Service,ZZZDeluxe Snow Per Time,0,2,0,0,0,0,0,100,0,0,8
+514,2,Service,ZZZDeluxe Seasonal,0,1,0,0,0,0,0,100,0,0,8
+515,2,Service,Plowing Per Time,1,3,0,1,0,0,0,8,0,0,8
+516,2,Service,Plowing Seasonal,1,3,0,1,0,0,0,50,0,0,8
+517,1,Service,zFree Gardening,0,4,0,0,0,1,0,1,0,0,1
+518,2,Service,zFree Gardening,0,4,0,0,0,1,0,1,0,0,11
+519,3,Service,zzMow,0,2,1,0,0,0,0,26,7,0,2
+520,3,Service,zzEstimate - Standard,0,2,1,0,0,0,0,1,0,0,1
+521,3,Service,zzSCU,0,2,1,0,0,0,0,1,0,0,2
+522,3,Service,zzFCU,0,3,1,0,0,0,0,2,14,0,2
+523,3,Service,zzz2010-11 Deluxe Per Time,0,2,1,0,0,0,0,100,0,0,8
+524,3,Service,zzz2010-11 Deluxe Seasonal,0,1,1,0,0,0,0,100,0,0,8
+525,3,Service,zzz2010-11 Standard Per Time,0,2,1,0,0,0,0,100,0,0,8
+526,3,Service,zzzAerate_Fall,0,2,1,0,0,0,0,1,0,0,9
+527,3,Service,zzzzAerate Spring,0,2,1,0,0,0,0,1,0,0,9
+528,3,Service,zzzCollections,1,5,1,0,0,0,0,1,0,0,1
+529,3,Service,zzDethatch_Fall,0,2,0,0,0,0,0,1,0,0,9
+530,3,Service,zzDethatch_Spring,0,2,0,0,0,0,0,1,0,0,9
+531,3,Service,zzzEstimate - Viper,0,2,1,0,0,0,0,0,0,0,1
+532,3,Service,zzzzFixup,1,5,1,0,0,0,0,1,0,0,1
+533,3,Service,zzGutter Spring Visit,0,2,1,0,0,0,0,1,0,0,6
+534,3,Service,zzz2010-11 Standard Seasonal,0,1,1,0,0,0,0,100,0,0,8
+535,3,Service,zzzzzzHedge,1,2,1,0,0,0,0,1,0,0,11
+536,3,Service,zzzzzzMow Special,0,2,1,0,0,0,0,26,7,0,2
+537,3,Service,zzShrub Trim Hourly,0,2,1,0,0,1,69,1,0,149,11
+538,3,Service,zzMonthly Gardening,0,2,1,0,0,1,59,6,30,59,11
+539,2,Service,zzzzzFlyer,1,5,0,0,0,0,0,2,20,0,1
+540,3,Service,zzzzzMulch,1,2,1,0,0,0,0,1,0,0,11
+541,3,Service,zzzzzzMulch II,1,2,1,0,0,0,0,1,0,0,11
+542,3,Service,zzzzzzzRenovate I,1,3,1,0,0,0,0,1,0,0,9
+543,3,Service,zzzzzzzRenovate II,0,3,1,0,0,0,0,1,0,0,9
+544,3,Service,zLandscape I,1,3,1,0,0,0,0,1,0,0,3
+545,1,Call,zzzzTwins Mow Contest,0,5,0,0,0,0,0,1,0,0,1
+546,3,Service,zzzzGardening,1,2,1,0,0,0,0,1,1,0,11
+547,2,Service,Spring Cleanup Upon Completion,1,2,0,1,0,0,0,1,1,0,2
+548,1,Service,zzzzzLate Fcu,1,5,1,0,0,0,0,1,0,0,2
+549,1,Service,zzzzLate Gutter,0,5,0,0,0,0,0,1,0,0,1
+550,1,Service,zemergency,0,0,0,0,0,0,0,1,0,0,1
+551,1,Service,zzzzzIce Melt,1,3,0,0,0,0,0,2,0,0,8
+552,2,Service,Snow Plow Out Service,1,2,0,1,0,0,0,15,0,0,8
+553,1,Call,Credit Card Prepay,1,5,0,0,0,0,0,1,0,0,1
+554,2,Call,Credit Card Prepay,1,5,0,0,0,0,0,1,0,0,1
+555,1,Service,zzzzToolcat,0,4,0,0,0,0,0,1,0,0,1
+556,4,Service,zzzEstimate - Standard,0,2,1,0,0,0,0,0,0,0,1
+557,3,Service,zzSummit Turf Fertilization,0,4,0,0,0,1,0,1,1,0,1
+558,3,Service,zzzzCredit Card Prepay,0,5,0,0,0,0,0,1,0,0,1
+559,4,Service,zzzMow,0,2,1,0,0,0,0,30,7,0,2
+560,4,Service,zzzzSCU,0,2,1,0,0,0,0,1,0,0,2
+561,4,Service,zzzAerate_Spring,0,2,1,0,0,0,0,1,0,0,9
+562,4,Service,zzzAerate_Fall,0,2,1,0,0,0,0,1,0,0,9
+563,4,Service,zzzDethatch_Fall,0,2,1,0,0,0,0,1,0,0,9
+564,4,Service,zzzDethatch_Spring,0,2,1,0,0,0,0,1,0,0,9
+565,4,Service,zzzEstimate - Viper,0,2,1,0,0,0,0,0,0,0,1
+566,4,Service,zzzFCU,0,3,1,0,0,0,0,2,14,0,2
+567,4,Service,zzzGutter 1 Visit,0,2,1,0,0,0,0,1,0,0,6
+568,4,Service,zzzGutter 2 Special,0,3,1,0,0,0,0,2,20,0,6
+569,4,Service,zzzzMow Special,0,2,1,0,0,0,0,28,7,0,2
+570,4,Service,zzzzShrub Trim Hourly,1,2,1,0,0,1,64,1,0,64,11
+571,4,Call,zzzzRenewal Call,0,5,0,0,0,0,0,1,0,0,1
+572,4,Service,zzzEdge One Time,0,2,0,1,0,1,54,1,0,54,5
+573,1,Service,Mowing 6 Pack,1,4,1,1,0,0,0,6,7,0,2
+574,4,Service,zzzzRenovate I,0,2,1,0,0,0,0,1,0,0,9
+575,4,Service,zzzHedge,0,2,1,0,0,0,0,1,0,0,11
+576,4,Service,zzzzMulch,0,2,1,0,0,0,0,1,0,0,11
+577,4,Call,zzzzSCU Call Back,0,2,1,0,0,0,0,1,0,0,10
+578,4,Service,zzzMow Groupon,0,4,1,0,16.5,0,0,6,7,0,2
+579,3,Service,zzMow 6 pack,0,2,1,0,0,0,0,6,7,0,2
+580,2,Service,Mowing 6 pack,1,4,1,1,0,0,0,6,7,0,2
+581,1,Service,Mulch Color Enhanced Delivery,1,2,0,1,0,0,0,1,0,0,11
+582,2,Service,z2011 Mow discount,1,0,0,0,0,0,0,1,0,0,1
+583,1,Service,z2011 Mow discount,0,0,0,0,0,0,0,1,0,0,1
+584,2,Service,z2011 Mow discount,0,0,0,0,0,0,0,1,0,0,1
+585,4,Call,zzzzCompliment,0,0,0,0,0,0,0,1,0,0,1
+586,1,Call,Customer Service,1,5,0,0,0,0,0,1,0,0,10
+587,2,Call,zzzzzCustomer Complaint,1,0,0,0,0,0,0,1,0,0,10
+588,4,Service,z2011 Mow Discount,1,0,0,0,0,0,0,1,0,0,1
+589,3,Service,z2011 Mow Discount,0,0,0,0,0,0,0,1,0,0,1
+590,3,Call,zzService Note,0,5,0,0,0,0,0,1,0,0,1
+591,4,Call,zzzCustomer Complaint,0,2,1,0,0,0,0,1,1,0,10
+592,3,Call,zzzzzzCustomer Complaint,1,2,1,0,0,0,0,1,1,0,10
+593,1,Service,zzzzzSeasonal Snow Removal,0,1,0,0,0,0,0,100,0,0,8
+594,4,Service,zzzGardening,0,2,0,1,0,0,0,1,0,0,11
+595,4,Service,zzzGardening Hourly,1,2,0,0,0,1,45,1,0,45,11
+596,4,Call,zzzzMow_Note,0,5,1,0,0,0,0,2,0,0,10
+597,1,Service,zzzzMow20,1,2,0,1,0,0,0,20,7,0,2
+598,2,Service,zzzzMow20,1,2,0,1,0,0,0,20,7,0,2
+599,3,Service,zzzzMow20,1,2,0,1,0,0,0,20,7,0,2
+600,4,Service,zzzzMow20,0,2,0,1,0,0,0,20,7,0,2
+601,4,Service,zzzEdge 3,0,3,1,0,89,0,0,3,21,0,2
+602,2,Service,zzzzEdge 3,1,3,1,0,89,0,0,3,21,0,2
+603,1,Service,zzzGutter Groupon,1,4,1,0,59.4,0,0,2,14,0,6
+604,1,Service,zzzIrrigation Groupon,1,4,0,0,45,0,0,2,150,0,7
+605,4,Call,zzzLate Call,0,5,0,0,0,0,0,1,0,0,1
+606,1,Service,Snow Plow Out Service,1,2,1,0,0,0,0,20,0,0,8
+607,1,Service,zzzzWaiting List,1,2,1,0,0,0,0,1,0,0,8
+608,1,Service,Commercial Seasonal Snow,1,1,0,0,0,0,0,50,0,0,8
+609,1,Service,zzzDeluxe Comm Seasonal,0,1,0,0,0,0,0,50,0,0,8
+610,1,Service,zzzDeluxe Comm Per Time,0,2,0,0,0,0,0,50,0,0,8
+611,1,Service,Commercial Snow Per Time,1,2,0,0,0,0,0,100,0,0,8
+612,1,Service,Commercial Snow Shoveling,1,5,0,0,0,0,0,50,0,0,8
+613,4,Service,zzzGutter Call Back,0,0,0,0,0,0,0,1,0,0,10
+614,3,Service,zzGutter Call Back,0,0,0,0,0,0,0,1,0,0,10
+615,3,Service,zzzzzzAerate Call Back,0,5,0,0,0,0,0,1,0,0,10
+616,4,Service,zzzAerate Call Back,0,5,0,0,0,0,0,1,0,0,10
+617,4,Call,zzzDethatch Call Back,0,5,0,0,0,0,0,1,0,0,10
+618,3,Call,zzzDethatch Call Back,0,5,0,0,0,0,0,1,0,0,10
+619,4,Call,zzzEdge Call Back,0,5,0,0,0,0,0,1,0,0,10
+620,3,Call,zzEdge Call Back,0,5,0,0,0,0,0,1,0,0,10
+621,4,Service,zzzGardening Call Back,1,5,0,0,0,0,0,1,0,0,10
+622,3,Service,zzGardening Call Back,0,5,0,0,0,0,0,1,0,0,10
+623,4,Service,zzzMonthly Gardening,0,2,0,0,0,1,45,6,30,45,5
+624,4,Service,zzzHedge Call Back,0,5,0,0,0,0,0,1,0,0,10
+625,3,Service,zzHedge Call Back,0,5,0,0,0,0,0,1,0,0,10
+626,4,Call,zzzzMow Special Note,0,5,0,0,0,0,0,1,0,0,10
+627,4,Service,zzzzMulch Call Back,0,5,0,0,0,0,0,1,0,0,10
+628,3,Service,zzzzzMulch Call Back,1,5,0,0,0,0,0,1,0,0,10
+629,4,Service,zzzMulch II,0,5,0,0,0,0,0,1,0,0,11
+630,2,Service,Reno Fixup,1,5,0,0,0,0,0,1,0,0,10
+631,4,Service,zzzzReno-Fixup,0,5,0,0,0,0,0,1,0,0,10
+632,3,Service,zzReno-Fixup,0,5,0,0,0,0,0,1,0,0,10
+633,4,Service,zzzzRenovate Call Back,0,5,0,0,0,0,0,1,0,0,10
+634,3,Service,zzRenovate Call Back,0,5,0,0,0,0,0,1,0,0,10
+635,4,Service,zzzzRenovate II,0,2,0,0,0,0,0,1,0,0,10
+636,4,Call,zzzzMow_Call_Back,0,5,0,0,0,0,0,1,0,0,10
+637,4,Service,zzzzOnline Prepay Request,0,5,0,0,0,0,0,1,0,0,1
+638,1,Service,Spring Aerate And Overseed ,1,4,0,1,0,0,0,1,0,0,9
+639,2,Service,Fall Aerate And Overseed,1,4,0,1,0,0,0,1,0,0,9
+640,3,Service,zzSpring Aerate and Overseed,0,2,0,1,0,0,0,1,0,0,9
+641,4,Service,zzzAerate and Overseed,0,2,0,1,0,0,0,1,0,0,9
+642,4,Service,zzzCredit Card Prepary,0,5,0,0,0,0,0,1,0,0,1
+643,1,Service,zzzFert Groupon,1,4,0,0,24,0,0,6,30,0,4
+644,4,Call,zzzzService Note,0,5,0,0,0,0,0,0,0,0,10
+645,1,Service,Seed Minor Spring,1,4,1,1,0,0,0,1,1,0,9
+646,1,Service,Seed Major Spring,1,4,1,1,0,0,0,1,1,0,9
+647,1,Call,zzzzzzzLawn Analysis,0,0,0,0,50,0,0,0,0,0,1
+648,2,Service,Pile,1,4,0,0,0,0,0,1,0,0,2
+649,2,Service,zzzzWaiting List,1,0,0,0,0,0,0,1,0,0,1
+650,1,Service,Grub Control,1,4,0,1,0,0,0,1,0,0,4
+651,1,Service,Shrub Trim Hourly,1,2,0,1,0,1,79,1,0,179,11
+652,3,Call,zzzzCall,1,5,0,0,0,0,0,1,1,0,1
+653,1,Call,zzzzCall,1,5,0,0,0,0,0,1,0,0,1
+654,2,Service,Monthly Power Edging,1,4,0,1,0,0,0,5,30,0,2
+655,2,Service,Seasonal Shrub Trim Hourly,1,2,0,1,0,1,74,4,28,149,11
+656,3,Service,zzzzzSeasonal Shrub Trim Hourly,1,2,0,0,0,1,69,3,45,99,11
+657,2,Service,Seed Minor Spring,1,4,0,1,0,0,0,1,1,0,9
+658,2,Service,Seed Major Spring,1,4,0,1,0,0,0,1,1,0,9
+659,3,Service,zzSeeding Minor,0,2,1,0,99,0,0,1,0,0,9
+660,3,Service,zzSeeding Major,0,2,1,0,218.9,0,0,1,0,0,9
+661,2,Service,zzzMulch Delivery,1,2,0,0,39,0,0,1,0,0,11
+662,2,Service,Stake,1,5,0,0,0,0,0,2,0,0,8
+663,1,Service,zzzzBobcat,1,5,0,0,0,0,0,100,0,0,1
+664,1,Service,Mow Every 2 Weeks,1,4,0,1,0,0,0,10,14,0,2
+665,2,Service,Mow Every 2 Weeks,1,4,0,1,0,0,0,11,14,0,2
+666,3,Service,zzEvery 2 Week Mowing,0,2,0,0,0,0,0,13,14,0,2
+667,1,Service,zzzzFertA big,0,2,0,0,0,0,0,4,30,0,4
+668,1,Service,Fall Cleanup 1 Visit,1,2,0,1,0,0,0,1,0,0,2
+669,3,Service,zzFCU Hourly,0,2,0,0,0,1,69,2,14,180,2
+670,1,Service,z,0,2,0,0,0,0,0,1,0,0,2
+671,2,Service,Fall Cleanup 1 Visit,1,2,0,1,0,0,0,1,0,0,2
+672,3,Service,zzFCU 1 Visit,0,2,0,0,0,0,0,1,0,0,2
+673,1,Service,Spring Cleanup Hourly,1,2,0,1,0,1,79,1,0,158,2
+674,2,Service,Spring Cleanup Hourly,1,2,0,1,0,1,79,1,0,158,2
+675,3,Service,zzScu Hourly,0,2,0,0,0,1,64,1,0,159,2
+676,1,Service,Gutter Late Spring,1,4,0,1,0,0,0,1,0,0,6
+677,2,Service,Gutter Late Spring,1,4,0,1,0,0,0,1,0,0,6
+678,3,Service,zzGutter Summer,0,2,0,0,0,0,0,1,0,0,6
+679,1,Service,zzzzComplimentary Weed Checkup,1,4,0,0,0,0,0,1,0,0,1
+680,1,Service,zzz1X Snow Removal,1,2,0,0,0,0,0,1,0,0,1
+681,1,Service,zzzFall Aerate and Overseed,0,2,0,1,0,0,0,1,0,0,9
+682,2,Service,zzzFall Aerate and Overseed,1,2,0,1,0,0,0,1,0,0,9
+683,3,Service,zzFall Aerate and Overseed,0,2,0,1,0,0,0,1,0,0,9
+684,2,Service,Spring Aerate And Overseed,1,4,0,1,0,0,0,1,0,0,9
+685,1,Call,zzzzSupervisor Checkup,1,5,0,0,0,0,0,1,0,0,1
+686,1,Service,Gutter Early Fall,1,2,0,1,0,0,0,1,0,0,6
+687,2,Service,Gutter Fall 1 Visit,1,2,0,1,0,0,0,1,0,0,6
+688,3,Service,zzGutter Fall 1 Visit,0,2,0,0,0,0,0,1,0,0,6
+689,1,Service,Driveway Deice,1,2,1,0,0,0,0,1,0,0,8
+690,1,Service,zzzzz2017 Storm Cleanup,1,0,0,0,0,1,59,1,0,99,2
+691,1,Service,Shrub Trim Minor,1,4,0,1,0,0,0,1,0,0,11
+692,1,Service,Shrub Trim Major,1,4,0,1,0,0,0,1,0,0,11
+693,2,Service,Shrub Trim Major,0,4,0,1,0,0,0,1,0,0,11
+694,3,Service,zzShrub Trim Major,0,2,0,0,229,0,0,1,0,0,11
+695,1,Service,Gardening Minor,1,4,0,1,0,0,0,1,0,0,11
+696,2,Service,Gardening Minor,1,4,0,1,0,0,0,1,0,0,11
+697,3,Service,zzGardening Minor,0,2,0,0,118,0,0,1,0,0,11
+698,1,Service,Gardening Major,1,4,0,1,0,0,0,1,0,0,11
+699,2,Service,Gardening Major,1,4,0,1,0,0,0,1,0,0,11
+700,3,Service,zzGardening Major,0,2,0,0,236,0,0,1,0,0,11
+701,2,Service,Shrub Trim Minor,1,4,0,1,129,0,0,1,0,0,11
+702,1,Service,zzzzzMow Weekend,1,2,0,0,0,0,0,24,7,0,2
+704,1,Service,Spring Cleanup Upon Completion,1,2,0,1,0,0,0,1,0,0,2
+705,1,Service,Spring Fall Gutter,1,4,0,1,0,0,0,1,0,0,6
+706,2,Service,Deice And Scrape,1,3,0,0,0,0,0,2,1,0,1
+707,1,Service,Sod Minimum,1,2,0,0,0,0,0,1,0,0,9
+708,1,Service,Sod Small,1,2,0,0,0,0,0,1,0,0,9
+709,1,Service,Sod Medium,1,2,0,0,0,0,0,1,0,0,9
+710,1,Service,Sod Large,1,2,0,0,0,0,0,1,0,0,9
+711,1,Service,Fixup,1,4,0,1,0,0,0,1,0,0,1
+712,2,Service,zzzzzFixup,1,0,0,0,0,0,0,0,0,0,1
+713,3,Service,zzzzzFixup,1,0,0,0,0,0,0,0,0,0,1
+714,1,Service,zzzzMow Weekend Note,1,0,0,0,0,0,0,1,0,0,1
+715,2,Service,Mulch Forest Blend Delivery,1,2,0,1,0,0,0,1,0,0,11
+716,1,Service,zzzzzzMulch- Double Ground Install,1,2,0,0,0,0,0,1,0,0,1
+717,2,Service,Mulch Forest Blend Install,1,2,0,1,0,0,0,1,0,0,11
+718,3,Service,zzzzzMulch- Double Ground Install,1,2,0,0,0,0,0,1,0,0,1
+719,1,Service,Mulch Double Ground Bags,1,2,0,1,0,0,0,1,0,0,11
+720,1,Service,Mulch Color Enhanced Bags,1,2,0,1,0,0,0,1,0,0,11
+721,1,Service,Mulch Western Red Bags,1,2,0,1,0,0,0,1,0,0,11
+722,2,Service,zzzzLandscape I,0,2,1,0,0,0,0,1,0,0,3
+723,1,Service,zzzSpring Gutter Special,0,3,0,0,0,0,0,2,21,0,6
+724,1,Service,Fall Aerate And Overseed,1,4,0,1,0,0,0,1,0,0,9
+725,1,Service,Sidewalk Per Visit,1,3,0,0,0,0,0,12,0,0,8
+726,1,Service,Plowing Seasonal,1,3,1,0,0,0,0,50,0,0,8
+727,1,Service,zzzDeluxe Plowing,0,1,0,0,0,0,0,50,0,0,8
+728,1,Service,Plowing Per Visit,1,3,0,0,0,0,0,12,0,0,8
+729,1,Service,zzzDeluxe Per time plowing,0,2,0,0,0,0,0,50,0,0,8
+730,1,Service,Sidewalk Seasonal,1,3,0,0,0,0,0,50,0,0,8
+731,1,Service,zzzSidewalk service deluxe seasonal,0,1,0,0,0,0,0,100,0,0,8
+732,1,Service,zzzzSidewalk service deluxe per tim,0,2,0,0,0,0,0,100,0,0,8
+734,1,Service,Country Club Seasonal Snow ,1,3,0,0,0,0,0,50,0,0,8
+735,1,Service,Country Club Snow Per Plow,1,3,0,0,0,0,0,12,0,0,8
+737,2,Service,Landscaping,1,2,0,0,0,0,0,1,0,0,9
+738,2,Service,zzzzMulch Custom Estimate,0,2,0,0,0,0,0,1,0,0,1
+739,1,Service,Gutter Fall 1 Visit,1,2,0,1,0,0,0,1,0,0,6
+740,1,Service,Fall Cleanup Upon Completion,1,2,0,1,0,0,0,2,14,0,2
+741,1,Service,zzGutter Fall B4 Thanksgiving,0,2,0,0,0,0,0,1,0,0,6
+742,1,Service,Gutter Fall After Thanksgiving,1,2,0,1,0,0,0,1,0,0,6
+743,1,Service,Fall Cleanup Extra Visit,1,2,0,1,0,0,0,1,0,0,2
+744,2,Service,Fall Cleanup Extra Visit,1,2,0,1,0,0,0,1,0,0,2
+745,2,Service,Seed Major Fall,0,2,0,1,0,0,0,1,0,0,9
+746,2,Service,Seed Minor Fall,0,4,0,1,0,0,0,1,0,0,9
+747,1,Service,Gutter Summer,1,4,0,1,0,0,0,1,0,0,6
+748,2,Service,Gutter Summer,1,4,0,1,0,0,0,1,0,0,6
+749,1,Service,Country Club Sidewalks,1,5,0,0,0,0,0,12,0,0,8
+750,1,Service,Commercial mowing,1,4,0,0,0,0,0,24,7,0,2
+751,1,Service,Mowing 1X,1,4,0,1,0,0,0,1,0,0,2
+752,1,Service,Plowing Flex Plan,1,2,0,0,0,0,0,3,0,0,8
+753,1,Service,Sidewalk Flex Plan,1,2,0,0,0,0,0,3,0,0,8
+754,1,Service,Mow Weekly Upon Completion,1,2,0,1,0,0,0,19,7,0,2
+755,2,Service,Mow Weekly Upon Completion,1,2,0,1,0,0,0,20,7,0,2
+756,3,Service,zMow Weekly Upon Completion,1,2,0,0,0,0,0,26,7,0,1
+757,1,Service,Mow Every 2 Weeks Upon Completion ,1,2,0,1,0,0,0,10,14,0,2
+758,1,Service,Spring Aerate And Overseed Upon Completion,1,2,0,1,0,0,0,1,0,0,9
+759,2,Service,Spring Aerate And Overseed Upon Completion,1,2,0,1,0,0,0,1,0,0,9
+760,3,Service,zSpring Aerate And Overseed Upon Completion,0,2,0,0,0,0,0,1,0,0,1
+761,1,Service,Seed Major Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,9
+762,2,Service,Seed Major Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,9
+763,3,Service,zSeed Major Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,9
+764,1,Service,Seed Minor Spring Upon Completion,1,2,0,1,0,1,0,1,0,0,9
+765,2,Service,Seed Minor Spring Upon Completion,1,2,0,1,0,1,0,1,0,0,9
+766,3,Service,zSeed Minor Spring Upon Completion,0,2,0,0,0,0,0,1,0,0,9
+767,1,Service,Shrub Trim Major Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+768,2,Service,Shrub Trim Major Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+769,3,Service,ZShrub Trim Major Upon Completion,0,2,0,1,0,0,0,1,0,0,11
+770,1,Service,Shrub Trim Minor Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+771,2,Service,Shrub Trim Minor Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+772,3,Service,ZShrub Trim Minor Upon Completion,0,2,0,1,0,0,0,1,0,0,11
+773,1,Service,Gardening Major Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+774,2,Service,Gardening Major Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+775,3,Service,ZGardening Major Upon Completion,0,2,0,1,0,0,0,1,0,0,11
+776,1,Service,Gardening Minor Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+777,2,Service,Gardening Minor Upon Completion,1,2,0,1,0,0,0,1,0,0,11
+778,3,Service,zGardening Minor Upon Completion,0,2,0,1,0,0,0,1,0,0,11
+779,1,Service,Aerate Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,13
+780,2,Service,Aerate Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,13
+781,3,Service,ZAerate Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,1
+782,1,Service,Dethatch Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,13
+783,2,Service,Dethatch Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,13
+784,3,Service,zDethatch Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,13
+785,1,Service,Gutter Early Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,6
+786,2,Service,Gutter Early Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,6
+787,3,Service,ZGutter Early Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,6
+788,1,Service,Gutter Late Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,6
+789,2,Service,Gutter Late Spring Upon Completion,1,2,0,1,0,0,0,1,0,0,6
+790,3,Service,ZGutter Late Spring Upon Completion,0,2,0,1,0,0,0,1,0,0,6
+791,1,Service,Mow Special Upon Completion,1,2,0,1,0,0,0,20,7,0,2
+792,1,Service,Irrigation Summer Sprinkler Check-Up,1,4,1,1,0,0,0,1,0,0,7
