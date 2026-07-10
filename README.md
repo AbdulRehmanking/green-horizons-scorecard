@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Green Horizons — Weekly Scorecard Dashboard
 
-## Getting Started
+> A production-grade analytics dashboard that tracks 5 key business metrics for a lawn care company across an 18-week seasonal window.
 
-First, run the development server:
+---
+
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Live Demo](#live-demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [API Documentation](#api-documentation)
+- [Metrics Explained](#metrics-explained)
+- [Data Quality Findings](#data-quality-findings)
+- [Architecture Decisions](#architecture-decisions)
+- [Project Structure](#project-structure)
+- [Deployment](#deployment)
+- [AI Disclosure](#ai-disclosure)
+- [Future Improvements](#future-improvements)
+
+---
+
+## 📖 Overview
+
+Green Horizons is a lawn care company that needed a way to track weekly performance during their busy season (March 2 – July 5, 2026). This dashboard pulls from 7 CSV data sources, calculates 5 core business metrics, and presents them in a clean, interactive interface.
+
+**What this project does:**
+- ✅ Parses real operational data from CSV files
+- ✅ Calculates weekly revenue, signups, cancellation rates, revenue per crew-day, and active staff
+- ✅ Provides a REST API endpoint for programmatic access
+- ✅ Displays professional dashboard with KPI cards, charts, and detailed data tables
+
+---
+
+## 🌐 Live Demo
+
+**[View the live dashboard →](https://your-app.vercel.app)**
+
+[API Endpoint →](https://your-app.vercel.app/api/metrics)
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| **Framework** | Next.js 16 (App Router) |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
+| **Charts** | Recharts |
+| **CSV Parsing** | Papaparse |
+| **Deployment** | Vercel |
+| **Version Control** | Git + GitHub |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- npm or yarn
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/AbdulRehmanking/green-horizons-scorecard
+
+# Navigate to project
+cd green-horizons-scorecard
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
