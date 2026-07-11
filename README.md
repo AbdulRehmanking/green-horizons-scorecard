@@ -4,9 +4,17 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Dashboard:** https://green-horizons-scorecard.vercel.app
+
+**API Endpoint:** https://green-horizons-scorecard.vercel.app/api/metrics
+
+---
+
 ## 📋 Table of Contents
+
 - [Overview](#overview)
-- [Live Demo](#live-demo)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [API Documentation](#api-documentation)
@@ -16,7 +24,6 @@
 - [Project Structure](#project-structure)
 - [Deployment](#deployment)
 - [AI Disclosure](#ai-disclosure)
-- [Future Improvements](#future-improvements)
 
 ---
 
@@ -29,14 +36,6 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 - ✅ Calculates weekly revenue, signups, cancellation rates, revenue per crew-day, and active staff
 - ✅ Provides a REST API endpoint for programmatic access
 - ✅ Displays professional dashboard with KPI cards, charts, and detailed data tables
-
----
-
-## 🌐 Live Demo
-
-**[View the live dashboard →](https://green-horizons-scorecard.vercel.app/)**
-
-[API Endpoint →](https://your-app.vercel.app/api/metrics)
 
 ---
 
@@ -64,7 +63,7 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 
 ```bash
 # Clone the repository
-git clone https://github.com/AbdulRehmanking/green-horizons-scorecard
+git clone https://github.com/AbdulRehmanking/green-horizons-scorecard.git
 
 # Navigate to project
 cd green-horizons-scorecard
