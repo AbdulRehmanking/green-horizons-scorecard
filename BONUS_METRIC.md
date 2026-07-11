@@ -54,6 +54,3 @@ echo "- **UI integration**: 1 hour" >> BONUS_METRIC.md
 echo "- **Testing**: 30 minutes" >> BONUS_METRIC.md
 echo "- **Total**: ~4-5 hours" >> BONUS_METRIC.md
 
-git add BONUS_METRIC.md
-git commit -m "docs: add bonus metric proposal for Customer Lifetime Value"
-git push origin master
