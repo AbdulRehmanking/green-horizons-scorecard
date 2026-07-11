@@ -5,10 +5,13 @@
 ---
 
 ## 🌐 Live Demo
+**Home:** https://green-horizons-scorecard-ibbembohv.vercel.app/dashboard
 
-**Dashboard:** https://green-horizons-scorecard.vercel.app
+**Dashboard:** https://green-horizons-scorecard-ibbembohv.vercel.app/dashboard
 
-**API Endpoint:** https://green-horizons-scorecard.vercel.app/api/metrics
+**api page:** http://localhost:3000/api-page
+
+**API Endpoint:** https://green-horizons-scorecard-ibbembohv.vercel.app/api/metrics
 
 ---
 
