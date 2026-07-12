@@ -16,6 +16,7 @@ I was responsible for:
 - **Debugging** — Fixing timezone bugs, TypeScript errors, and Vercel deployment issues
 - **Data Quality** — Analyzing CSV data, finding anomalies, and interpreting results
 - **UI/UX Decisions** — Designing the landing page, dashboard layout, and color schemes
+- **coding** - logic and handling
 
 ---
 
