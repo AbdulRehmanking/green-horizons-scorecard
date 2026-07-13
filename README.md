@@ -1,18 +1,20 @@
 # Green Horizons — Weekly Scorecard Dashboard
 
-> A production-grade analytics dashboard that tracks 5 key business metrics for a lawn care company across an 18-week seasonal window.
+> A production-grade analytics dashboard that tracks 5 key business metrics for a lawn care company across an 18-week seasonal window, with a shared service powering both the UI and a validated HTTP API + MCP tool.
 
 ---
 
 ## 🌐 Live Demo
-**Home:** https://green-horizons-scorecard-ibbembohv.vercel.app/dashboard
 
-**Dashboard:** https://green-horizons-scorecard-ibbembohv.vercel.app/dashboard
+**Home:** https://green-horizons-scorecard.vercel.app
 
-**api page:** http://localhost:3000/api-page
+**Dashboard:** https://green-horizons-scorecard.vercel.app/dashboard
 
-**API Endpoint:** https://green-horizons-scorecard-ibbembohv.vercel.app/api/metrics
-**loom vedio :** https://www.loom.com/share/fca36fa367cd446f88757cab2fad9f7b
+**API Endpoint:** https://green-horizons-scorecard.vercel.app/api/scorecard
+
+**Legacy API:** https://green-horizons-scorecard.vercel.app/api/metrics
+
+**Loom Walkthrough:** https://www.loom.com/share/fca36fa367cd446f88757cab2fad9f7b
 
 ---
 
@@ -21,6 +23,8 @@
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
+- [Part A - Dashboard](#part-a---weekly-scorecard)
+- [Part B - API + MCP](#part-b---scorecard-api--mcp)
 - [API Documentation](#api-documentation)
 - [Metrics Explained](#metrics-explained)
 - [Data Quality Findings](#data-quality-findings)
@@ -38,7 +42,8 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 **What this project does:**
 - ✅ Parses real operational data from CSV files
 - ✅ Calculates weekly revenue, signups, cancellation rates, revenue per crew-day, and active staff
-- ✅ Provides a REST API endpoint for programmatic access
+- ✅ Provides a REST API endpoint with date validation
+- ✅ Exposes an MCP tool for AI/LLM integration
 - ✅ Displays professional dashboard with KPI cards, charts, and detailed data tables
 
 ---
@@ -52,6 +57,8 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 | **Styling** | Tailwind CSS |
 | **Charts** | Recharts |
 | **CSV Parsing** | Papaparse |
+| **MCP SDK** | @modelcontextprotocol/sdk |
+| **Testing** | Jest + tsx |
 | **Deployment** | Vercel |
 | **Version Control** | Git + GitHub |
 
