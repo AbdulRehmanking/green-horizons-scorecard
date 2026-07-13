@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 **Home:** https://green-horizons-scorecard.vercel.app
 
@@ -16,9 +16,11 @@
 
 **Loom Walkthrough:** https://www.loom.com/share/fca36fa367cd446f88757cab2fad9f7b
 
+**Loom Walkthrough PART B:**
+
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
@@ -35,20 +37,20 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 Green Horizons is a lawn care company that needed a way to track weekly performance during their busy season (March 2 – July 5, 2026). This dashboard pulls from 7 CSV data sources, calculates 5 core business metrics, and presents them in a clean, interactive interface.
 
 **What this project does:**
-- ✅ Parses real operational data from CSV files
-- ✅ Calculates weekly revenue, signups, cancellation rates, revenue per crew-day, and active staff
-- ✅ Provides a REST API endpoint with date validation
-- ✅ Exposes an MCP tool for AI/LLM integration
-- ✅ Displays professional dashboard with KPI cards, charts, and detailed data tables
+- Parses real operational data from CSV files
+- Calculates weekly revenue, signups, cancellation rates, revenue per crew-day, and active staff
+- Provides a REST API endpoint with date validation
+- Exposes an MCP tool for AI/LLM integration
+- Displays professional dashboard with KPI cards, charts, and detailed data tables
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -64,7 +66,7 @@ Green Horizons is a lawn care company that needed a way to track weekly performa
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
