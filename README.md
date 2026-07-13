@@ -16,7 +16,7 @@
 
 **Loom Walkthrough:** https://www.loom.com/share/fca36fa367cd446f88757cab2fad9f7b
 
-**Loom Walkthrough PART B:**
+**Loom Walkthrough PART B:** 
 
 ---
 
