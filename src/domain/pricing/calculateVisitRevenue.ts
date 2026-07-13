@@ -1,4 +1,4 @@
-import { CompletedService, LocationService } from "@/lib/types";
+﻿import { CompletedService, LocationService } from "../../lib/types";
 
 export function calculateVisitRevenue(
   visit: CompletedService,

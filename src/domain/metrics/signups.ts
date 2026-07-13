@@ -18,7 +18,7 @@ export function computeSignups(repo: Repository) {
   const counts = new Map<string, number>();
   getAllWeekStarts().forEach((w: string) => counts.set(w, 0));
 
-  for (const date of firstActivationByCustomer.values()) {
+  for (const date of Array.from(firstActivationByCustomer.values())) {
     const week = snapToCanonicalWeek(date);
     if (week && counts.has(week)) {
       counts.set(week, (counts.get(week) ?? 0) + 1);

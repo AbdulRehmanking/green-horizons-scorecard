@@ -1,4 +1,4 @@
-import fs from "fs";
+﻿import fs from "fs";
 import path from "path";
 import Papa from "papaparse";
 
@@ -14,4 +14,4 @@ export function loadCsv<T>(filename: string): T[] {
     console.warn(`CSV warnings in ${filename}:`, result.errors.slice(0, 3));
   }
   return result.data;
-}
+} 
